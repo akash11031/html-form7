@@ -1,0 +1,15 @@
+body{
+    color: rgb(247, 247, 9);
+}
+
+.container-fluid {
+    background: url(./img/pic1.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.col-9{
+   
+    height: 90vh;
+    margin-top: 5vh;
+}
